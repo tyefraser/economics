@@ -12,3 +12,12 @@ Central Bank Controls Monetary Policy - This impacts money supply (Get the RBA a
 Where to look and what to read:
 Leading indicators: Purchasing Managers Indexx (PMI), Consumer Confidence index, Jobless Indicators
 Lagging Indicators: GDP, CPI, Balance of Trade
+
+Other Items:
+Unemployment Rate
+Yield Curve (Interest Rates 
+Durable Goods Orders 
+Manufacturing Orders
+Retail Sales 
+Housing Permits 
+Global Stock Indices (i.e., NYSE, L
