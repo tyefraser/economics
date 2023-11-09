@@ -3,6 +3,7 @@ Code for describing the economy
 
 Things to add:
 GDP = C + I + GS + E - I
+GDP is a monetary measure of the size of an economy. It should not be used to measure the standard ofliving or inequality
 
 Depression = 3yrs + GDP declined by 10%
 
